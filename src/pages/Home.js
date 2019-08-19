@@ -3,6 +3,8 @@ import Hero from "../Components/Hero"
 import Banner from "../Components/Banner";
 import {Link} from "react-router-dom";
 import Services from "../Components/Services";
+import FeaturedRooms from "../Components/FeaturedRooms";
+
 
 export default function Home(){
     return(
@@ -12,7 +14,8 @@ export default function Home(){
                     <Link to={"/rooms"} className={"btn-primary"}>our rooms</Link>
                 </Banner>
             </Hero>
-        <Services></Services>
+        <Services/>
+            <FeaturedRooms> </FeaturedRooms>
         </React.Fragment>
 
     )
