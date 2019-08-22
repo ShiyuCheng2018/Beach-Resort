@@ -21,7 +21,6 @@ class RoomProvider extends Component {
             sortedRooms: rooms,
             loading:false,
         });
-        console.log(featuredRooms);
     }
     formateData(items){
         let tempItems = items.map(item =>{
