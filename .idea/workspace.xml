@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c91b6e1-0b4f-48d9-a48d-56bea765b3ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/RoomFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RoomList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RoomsContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Room.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Room.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Rooms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Rooms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/RoomList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RoomList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/RoomsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/RoomsContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/context.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="253">
+              <caret line="54" column="42" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="42" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -34,22 +31,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Components/RoomsContainer.js">
+        <entry file="file://$PROJECT_DIR$/src/Components/RoomList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            <state relative-caret-position="371">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Components/RoomList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -117,7 +105,6 @@
         <option value="$PROJECT_DIR$/src/Components/Titles.js" />
         <option value="$PROJECT_DIR$/src/Components/Services.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Components/Loading.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/pages/Home.js" />
@@ -125,12 +112,13 @@
         <option value="$PROJECT_DIR$/src/Components/StyledHero.js" />
         <option value="$PROJECT_DIR$/src/pages/SingleRoom.js" />
         <option value="$PROJECT_DIR$/src/Components/RoomsFilter.js" />
-        <option value="$PROJECT_DIR$/src/Components/RoomList.js" />
         <option value="$PROJECT_DIR$/src/Components/Room.js" />
         <option value="$PROJECT_DIR$/src/Components/RoomFilter.js" />
         <option value="$PROJECT_DIR$/src/pages/Rooms.js" />
         <option value="$PROJECT_DIR$/src/context.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/Components/RoomsContainer.js" />
+        <option value="$PROJECT_DIR$/src/Components/RoomList.js" />
       </list>
     </option>
   </component>
@@ -227,12 +215,12 @@
       <workItem from="1566013876323" duration="2775000" />
       <workItem from="1566016720484" duration="10331000" />
       <workItem from="1566171331192" duration="11975000" />
-      <workItem from="1566437900427" duration="13415000" />
+      <workItem from="1566437900427" duration="14267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38867000" />
+    <option name="totallyTimeSpent" value="39719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -340,16 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -407,13 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/RoomList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/Room.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -431,6 +402,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Rooms.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -441,20 +422,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Components/RoomsContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/context.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="253">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="42" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/RoomsContainer.js">
+    <entry file="file://$PROJECT_DIR$/src/Components/RoomList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="371">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
