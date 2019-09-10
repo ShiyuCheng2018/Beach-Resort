@@ -79,11 +79,7 @@ export default function RoomFilter({rooms}) {
                 </div>
             </div>
             {/* end of extras*/}
-
-
         </form>
-
-
     </section>
 }
 
